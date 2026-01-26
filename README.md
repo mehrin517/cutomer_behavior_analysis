@@ -87,8 +87,4 @@ Detailed findings are included in the analytical report.
 git clone https://github.com/your-username/project-name.git
 ```
 
-Run notebooks in the /notebooks folder
 
-Execute SQL scripts from the /sql folder
-
-Open the Power BI file in /dashboard

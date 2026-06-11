@@ -17,6 +17,11 @@ This project demonstrates an end-to-end **data analytics workflow**, from raw da
 The focus is on transforming data into **clear, actionable insights** using industry-standard analytics tools.
 
 ---
+<h2>Dashboard Preview</h2>
+
+<p align="center">
+  <img src="dashboard.png" alt="Customer Behavior Analysis Dashboard" width="900">
+</p>
 
 ## Dataset
 📁 **Source:** Public / Sample Dataset  
